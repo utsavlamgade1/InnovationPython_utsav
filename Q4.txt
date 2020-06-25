@@ -1,0 +1,11 @@
+4. How many types of version control systems are there?
+There are two types of version control: centralized and distributed.
+
+Centralized version control
+With centralized version control systems, you have a single “central” copy of your project on a server and commit your changes to this central copy. You pull the files that you need, but you never have a full copy of your project locally. Some of the most common version control systems are centralized, including Subversion (SVN) and Perforce.
+
+Distributed version control
+With distributed version control systems (DVCS), you don't rely on a central server to store all the versions of a project’s files. Instead, you clone a copy of a repository locally so that you have the full history of the project. Two common distributed version control systems are Git and Mercurial.
+
+While you don't have to have a central repository for your files, you may want one "central" place to keep your code so that you can share and collaborate on your project with others. That's where Bitbucket comes in. Keep a copy of your code in a repository on Bitbucket so that you and your teammates can use Git or Mercurial locally and to push and pull code. 
+(Source: https://support.atlassian.com/bitbucket-cloud/docs/types-of-version-control/#:~:text=There%20are%20two%20types%20of%20version%20control%3A%20centralized%20and%20distributed.)
