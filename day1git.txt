@@ -1,5 +1,7 @@
 2. What are the difference between Git and GItHub?
-Git is a version control system that lets you manage and keep track of your source code history whereas GitHub is a cloud-based hosting service that lets you manage Git repositories.
+Git is a distributed version control tool that can manage a development project's source code history, while GitHub is a cloud based platform built around the Git tool. Git is a tool a developer installs locally on their computer, while GitHub is an online service that stores code pushed to it from computers running the Git tool. The key difference between Git and GitHub is that Git is an open-source tool developers install locally to manage source code, while GitHub is an online service to which developers who use Git can connect and upload or download resources.
+
+One way to examine the differences between GitHub and Git is to look at their competitors. Git competes with centralized and distributed version control tools such as Subversion, Mercurial, ClearCase and IBM's Rational Team Concert. On the other hand, GitHub competes with cloud-based SaaS and PaaS offerings, such as GitLab and Atlassian's Bitbucket.
 
 3. What is Git Workflow?
 A Git Workflow is a recipe or recommendation for how to use Git to accomplish work in a consistent and productive manner. Git workflows encourage users to leverage Git effectively and consistently
